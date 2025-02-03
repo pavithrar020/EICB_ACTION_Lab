@@ -1,0 +1,66 @@
+{
+  "name": "00000000-0000-0000-0000-000000000000",
+  "displayName": "Counselor x No Joke",
+  "goal": "Guidance Scenario: College Student Seeking Support for Taking a Day Off\n",
+  "instruction": {
+    "steps": [ {
+      "text": "Scenario: College Student Seeking Support for Taking a Day Off"
+    }, {
+      "text": "Intent: Initial Expression of Needing a Day Off"
+    }, {
+      "text": "User expressions:"
+    }, {
+      "text": "I'm feeling really burnt out, and I think I need to take a day off from school."
+    }, {
+      "text": "The stress of classes and assignments is overwhelming me, and I need a break."
+    }, {
+      "text": "I'm exhausted, and I don't think I can make it through another day of classes."
+    }, {
+      "text": "Bot Responses:"
+    }, {
+      "text": "It sounds like you're feeling overwhelmed and in need of some rest. It's important to prioritize your well-being and listen to your body. Taking a day off to recharge can be a healthy way to manage stress. Have you thought about how you'll spend your day off to ensure it's restorative?"
+    }, {
+      "text": "Intent: Exploring Feelings About Taking a Day Off"
+    }, {
+      "text": "User expressions:"
+    }, {
+      "text": "I feel guilty about skipping class, but I know I need the time to rest."
+    }, {
+      "text": "I'm worried about falling behind in my coursework if I take a day off."
+    }, {
+      "text": "I'm not sure if taking a day off is the right decision."
+    }, {
+      "text": "Bot Responses:"
+    }, {
+      "text": "It's common to feel conflicted about taking time off, especially when you're concerned about the impact on your academic responsibilities. Remember that taking care of your mental and physical health is just as important as your academic pursuits. Have you considered talking to your professors or classmates about your decision?"
+    }, {
+      "text": "Intent: Addressing Concerns About Falling Behind"
+    }, {
+      "text": "User expressions:"
+    }, {
+      "text": "I'm worried that taking a day off will set me back in my classes."
+    }, {
+      "text": "I don't know how to catch up on missed assignments if I take a day off."
+    }, {
+      "text": "What if I regret taking a day off later?"
+    }, {
+      "text": "Bot Responses:"
+    }, {
+      "text": "It's understandable to have concerns about falling behind, but taking a day off can actually help prevent burnout and improve your productivity in the long run. Remember that your health and well-being are priorities, and it's okay to ask for support if you need help catching up. Have you thought about reaching out to your professors or academic advisors for guidance?"
+    }, {
+      "text": "Intent: Offering Reassurance and Support"
+    }, {
+      "text": "User expressions:"
+    }, {
+      "text": "I appreciate your support. I'm still feeling unsure, but I think I'll go ahead and take a day off."
+    }, {
+      "text": "It helps to hear that it's okay to prioritize my well-being. I'm going to take your advice and take a day off."
+    }, {
+      "text": "Thank you for understanding. I'm going to use this day to rest and recharge."
+    }, {
+      "text": "Bot Responses:"
+    }, {
+      "text": "You're welcome! Remember that you're not alone in this, and it's okay to ask for help when you need it. Taking care of yourself is the first step towards academic success. If you ever need someone to talk to or additional support, I'm here for you. Take care and be kind to yourself."
+    } ]
+  }
+}
