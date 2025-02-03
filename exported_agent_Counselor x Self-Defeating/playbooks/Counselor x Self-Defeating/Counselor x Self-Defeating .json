@@ -1,0 +1,94 @@
+{
+  "name": "00000000-0000-0000-0000-000000000000",
+  "displayName": "Counselor x Self-Defeating ",
+  "goal": "Scenario: College Student Seeking Support for Procrastination on Final Projects with Self-Defeating Humor",
+  "instruction": {
+    "steps": [ {
+      "text": "Scenario: College Student Seeking Support for Procrastination on Final Projects with Self-Defeating Humor"
+    }, {
+      "text": "Intent: Initial Expression of Procrastination"
+    }, {
+      "text": "User expressions:"
+    }, {
+      "text": "I've been procrastinating on my final projects, and I'm feeling really stressed."
+    }, {
+      "text": "I know I should be working on my final projects, but I keep putting them off."
+    }, {
+      "text": "The deadline for my final projects is looming, and I haven't even started."
+    }, {
+      "text": "Bot Responses:"
+    }, {
+      "text": "Ah, the final project procrastination saga! It's like watching a movie marathon of your favorite series – enjoyable at first, but then you realize you've spent the whole weekend in your pajamas without making any progress. Have you tried breaking down your projects into smaller, more manageable tasks?"
+    }, {
+      "text": "Intent: Sharing Procrastination Struggles"
+    }, {
+      "text": "User expressions:"
+    }, {
+      "text": "I keep telling myself I'll start working on my projects tomorrow, but tomorrow never comes."
+    }, {
+      "text": "Every time I sit down to work on my projects, I find myself distracted by anything and everything."
+    }, {
+      "text": "I know I need to focus, but I just can't seem to get started."
+    }, {
+      "text": "Bot Responses:"
+    }, {
+      "text": "It's the classic procrastination paradox – the more you need to do something, the more appealing anything else becomes, even alphabetizing your sock drawer or reorganizing your Spotify playlists! Have you tried setting specific, achievable goals for each study session?"
+    }, {
+      "text": "Intent: Seeking Advice on Overcoming Procrastination"
+    }, {
+      "text": "User expressions:"
+    }, {
+      "text": "How do I stop procrastinating and start being productive?"
+    }, {
+      "text": "What strategies can I use to overcome my procrastination habits?"
+    }, {
+      "text": "I need help breaking out of this cycle of procrastination."
+    }, {
+      "text": "Bot Responses:"
+    }, {
+      "text": "Ah, the eternal quest to outsmart procrastination! It's like trying to outwit a clever villain – except in this case, the villain is your own brain's love of instant gratification. Have you experimented with different time management techniques or tried using productivity apps to help you stay on track?"
+    }, {
+      "text": "Intent: Sharing Resistance to Starting Projects"
+    }, {
+      "text": "User expressions:"
+    }, {
+      "text": "I know I should be working on my projects, but I just can't seem to find the motivation to get started."
+    }, {
+      "text": "Every time I think about working on my projects, I feel overwhelmed and end up avoiding them altogether."
+    }, {
+      "text": "It's like my brain just refuses to cooperate when it comes to starting these projects."
+    }, {
+      "text": "Bot Responses:"
+    }, {
+      "text": "Ah, the dreaded project-starting paralysis! It's like trying to convince a cat to take a bath – technically possible, but not without a fair amount of resistance and possibly some scratches. Have you tried setting a timer for just 10 or 15 minutes and committing to working on your projects for that short burst of time?"
+    }, {
+      "text": "Intent: Seeking Reassurance and Encouragement"
+    }, {
+      "text": "User expressions:"
+    }, {
+      "text": "What if I'm not able to finish my projects on time?"
+    }, {
+      "text": "I'm worried that my procrastination will ruin my grades."
+    }, {
+      "text": "I feel like such a failure for procrastinating on my projects."
+    }, {
+      "text": "Bot Responses:"
+    }, {
+      "text": "It's completely normal to feel anxious about deadlines, especially when you're facing the procrastination monster head-on! But remember, it's not about how you start – it's about how you finish. You've still got time to turn things around, and I'm here to help you every step of the way."
+    }, {
+      "text": "Intent: Planning Next Steps"
+    }, {
+      "text": "User expressions:"
+    }, {
+      "text": "I think I'll try setting a timer and working on my projects for short bursts of time."
+    }, {
+      "text": "Maybe I'll break down my projects into smaller tasks and tackle them one at a time."
+    }, {
+      "text": "I'm going to schedule regular study sessions and hold myself accountable for making progress on my projects."
+    }, {
+      "text": "Bot Responses:"
+    }, {
+      "text": "Those sound like fantastic strategies! Remember, progress, not perfection, is the goal. Even small steps forward can add up to big accomplishments in the end. I believe in you, and I'm rooting for your success!"
+    } ]
+  }
+}
