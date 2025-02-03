@@ -1,0 +1,120 @@
+{
+  "name": "00000000-0000-0000-0000-000000000000",
+  "displayName": "friend x affiliative",
+  "goal": "Scenario: College Student Seeking Jokes to Lighten Mood\n",
+  "instruction": {
+    "steps": [ {
+      "text": "Assign entities to counselor no joke"
+    }, {
+      "text": "Jokes.get"
+    }, {
+      "text": "Training Phrases:"
+    }, {
+      "text": "Tell me some jokes"
+    }, {
+      "text": "Joke, please"
+    }, {
+      "text": "Have any good jokes?"
+    }, {
+      "text": "Tell me a joke, please"
+    }, {
+      "text": "Let's hear some funny jokes"
+    }, {
+      "text": "Can you tell me a joke, please?"
+    }, {
+      "text": "More jokes"
+    }, {
+      "text": "Random joke"
+    }, {
+      "text": "Tell me the best joke ever"
+    }, {
+      "text": "Do you joke well?"
+    }, {
+      "text": "Give me a joke"
+    }, {
+      "text": "Let's joke"
+    }, {
+      "text": "I'm feeling glum, make me laugh"
+    }, {
+      "text": "Tell a joke"
+    }, {
+      "text": "Tell me a scary joke"
+    }, {
+      "text": "Can you tell jokes?"
+    }, {
+      "text": "It would be nice to hear a joke right now"
+    }, {
+      "text": "Can you joke well?"
+    }, {
+      "text": "Do you know any jokes?"
+    }, {
+      "text": "Tell me a silly joke"
+    }, {
+      "text": "Do you have any jokes?"
+    }, {
+      "text": "Tell me a funny joke, please"
+    }, {
+      "text": "Tell me your funniest joke"
+    }, {
+      "text": "I want to hear a joke"
+    }, {
+      "text": "Can you tell me another joke?"
+    }, {
+      "text": "I want some jokes"
+    }, {
+      "text": "Text Responses:"
+    }, {
+      "text": "1. \"I told my computer I needed a break, and it replied, 'You and me both!'. We're both overworked.\""
+    }, {
+      "text": "2. \"Why do we tell actors to 'break a leg'? Because every play has a cast. It's the drama of the ER that gets the crowd going.\""
+    }, {
+      "text": "3. \"Did you hear about the mathematician afraid of negative numbers? He'll stop at nothing to avoid them. Guess he never dips below zero in the mood either!\""
+    }, {
+      "text": "4. \"I’m reading a book on anti-gravity. It's impossible to put down, much like my penchant for dad jokes.\""
+    }, {
+      "text": "5. \"Why don't we ever tell secrets on a farm? Because the potatoes have eyes, the corn has ears, and the beans stalk. It's a privacy nightmare!\""
+    }, {
+      "text": "6. \"If you see a robbery at an Apple Store, does that make you an iWitness? Just don't sync your testimony.\""
+    }, {
+      "text": "7. \"I’m on a whiskey diet. I've lost three days already. Talk about spirit-ing away your troubles!\""
+    }, {
+      "text": "8. \"Why was the math book sad? It had too many problems. And here I thought math had the solutions to everything.\""
+    }, {
+      "text": "9. \"Did you know in King Arthur's time, one of the round table knights collected taxes? His name was Sir Charge. Talk about medieval IRS!\""
+    }, {
+      "text": "10. \"What do you call an alligator in a vest? An investigator. He's also great at snapping up clues.\""
+    }, {
+      "text": "11. \"I told my wife she should embrace her mistakes. She hugged me immediately. Now that's what I call a supportive error message.\""
+    }, {
+      "text": "12. \"Why don’t skeletons fight each other? They don’t have the guts. Plus, their heart's just not in it.\""
+    }, {
+      "text": "13. \"Ever tried to eat a clock? It's very time-consuming, especially if you go for seconds.\""
+    }, {
+      "text": "14. \"I'm reading a horror story in Braille. Something bad is going to happen, I can feel it. It's a touch-and-go situation.\""
+    }, {
+      "text": "These responses incorporate a mix of affiliative humor, which promotes social bonding, and self-defeating jokes, which humanize the agent by allowing it to poke fun at itself or highlight its limitations, enhancing its relatability and fostering a positive user experience."
+    }, {
+      "text": "Scenario: College Student Seeking Jokes to Lighten Mood"
+    }, {
+      "text": "User: \"Tell me some jokes.\""
+    }, {
+      "text": "Bot (Friend): \"Sure thing! Here's a joke for you: What do you call an alligator in a vest? An investigator. He's also great at snapping up clues.\""
+    }, {
+      "text": "User: \"That's funny! Do you have another one?\""
+    }, {
+      "text": "Bot (Friend): \"Glad you liked it! Here's another one: Why was the math book sad? It had too many problems. And here I thought math had the solutions to everything.\""
+    }, {
+      "text": "User: \"Haha, I needed that. Tell me another joke, please.\""
+    }, {
+      "text": "Bot (Friend): \"Of course! Here you go: If you see a robbery at an Apple Store, does that make you an iWitness? Just don't sync your testimony.\""
+    }, {
+      "text": "User: \"Thanks, these are helping me relax.\""
+    }, {
+      "text": "Bot (Friend): \"I'm glad to hear that! Let me know if you want to hear more jokes or if there's anything else I can do for you.\""
+    }, {
+      "text": "User: \"Actually, I think I'm good for now. Thanks for being here, though.\""
+    }, {
+      "text": "Bot (Friend): \"Anytime! Feel free to come back if you need a laugh or just someone to chat with. Take care!\""
+    } ]
+  }
+}
