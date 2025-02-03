@@ -1,0 +1,12 @@
+{
+  "displayName": "Friend x Self Defeating Joke",
+  "defaultLanguageCode": "en",
+  "timeZone": "America/Los_Angeles",
+  "projectNumber": 357908376422,
+  "advancedSettings": {
+    "loggingSettings": {
+    
+    }
+  },
+  "startPlaybook": "Default Generative Agent"
+}
